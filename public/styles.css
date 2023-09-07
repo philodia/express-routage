@@ -1,0 +1,30 @@
+ /* Styles pour la barre de navigation */
+header {
+    background-color: #007BFF; /* Couleur de fond bleue */
+    color: #fff; /* Texte en blanc */
+    padding: 20px 0; /* Espacement intérieur en haut et en bas */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Ombre légère */
+  }
+  
+  header a {
+    color: #fff; /* Liens en blanc */
+    text-decoration: none; /* Pas de soulignement des liens */
+    margin-right: 20px; /* Espacement entre les liens */
+    font-weight: bold; /* Texte en gras */
+    transition: color 0.3s; /* Transition douce de la couleur */
+  }
+  
+  header a:hover {
+    color: #0056b3; /* Couleur de survol plus foncée */
+  }
+  
+  /* Styles pour le pied de page */
+  footer {
+    background-color: #007BFF; /* Couleur de fond bleue */
+    color: #fff; /* Texte en blanc */
+    text-align: center; /* Texte centré */
+    padding: 10px 0; /* Espacement intérieur en haut et en bas */
+    font-size: 14px; /* Taille de la police */
+    box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.2); /* Ombre légère en haut du pied de page */
+  }
+  
